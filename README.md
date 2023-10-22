@@ -1,28 +1,32 @@
 ## Presentation
 
 ```Csharp
-public class SoftwareDeveloperJunior{
 
-public string fullName {set; get;}
-pubic int age {set; get; }
-public list<string> languagesSpoken {set; get;}
-public string contry {set; get;}
-
-public SoftwareDeveloperJunior presentation (){
-list<string> languages = new list<string>
-lengues.add("English, spanish");
-SoftwareDeveloperJunior presentation = new SoftwareDeveloperJunior
+public class SoftwareDeveloperJunior
 {
-fullName = "Loren Feliz",
-age = 20,
-lenguageSpoken = languages,
-contry = "Dominican Republic"
-};
+    public string FullName { get; set; }
+    public int Age { get; set; }
+    public List<string> LanguagesSpoken { get; set; }
+    public string Country { get; set; }
 
-return presentation;
-    
+    public SoftwareDeveloperJunior Presentation()
+    {
+        List<string> languages = new List<string>();
+        languages.Add("English");
+        languages.Add("Spanish");
+
+        SoftwareDeveloperJunior presentation = new SoftwareDeveloperJunior
+        {
+            FullName = "Loren Feliz",
+            Age = 20,
+            LanguagesSpoken = languages,
+            Country = "Dominican Republic"
+        };
+
+        return presentation;
+    }
 }
-}
+
 ```
 
 ## Technologies & Tools
@@ -42,6 +46,7 @@ return presentation;
 ![json]<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 ![Node.js]<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 ![Visual Studio]<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+![C#](https://img.shields.io/badge/-C%23-orange?style=flat-square&logo=c-sharp)
 
 
 ## Connect with me
