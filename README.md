@@ -37,13 +37,13 @@ return presentation;
 
 ## Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-coramosnolasco%40gmail.com-red?style=flat-square&logo=Gmail)](mailto:coramosnolasco@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-@cesarcorn19-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cesarcorn19?hr_r=1)
+[![Gmail](https://img.shields.io/badge/Gmail-Lorenr.feliz%40gmail.com-red?style=flat-square&logo=Gmail)](mailto:Lorenr.Feliz@gmail.com@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-@LorenRF-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cesarcorn19?hr_r=1)
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caesarr19&show_icons=true&theme=dark) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarr19&layout=compact&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenRF&show_icons=true&theme=dark) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenRF&layout=compact&theme=dark) 
 
 ## Github Trophies
 
