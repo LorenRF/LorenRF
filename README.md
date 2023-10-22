@@ -38,15 +38,15 @@ public class SoftwareDeveloperJunior
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Atom]<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
-![bootstrap]<img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-![Java]<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-![javascript]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-![jQuery-0769AD]<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-![json]<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
-![Node.js]<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-![Visual Studio]<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jQuery-0769AD](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![json](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio)
 ![C#](https://img.shields.io/badge/-C%23-orange?style=flat-square&logo=c-sharp)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-orange?style=flat-square&logo=asp-net)
 
 
 ## Connect with me
